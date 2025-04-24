@@ -1,0 +1,17 @@
+{
+    "id": 7,
+    "name": "John Paolo",
+    "email": "johnpaolosalazar16@gmail.com",
+    "phone": "+63991129903",
+    "address": {
+        "street": "Ilang Ilang Street",
+        "city": "Valenzuela City",
+        "state": "Philippines",
+        "zip": "4450"
+    },
+    "company": {
+        "name": "Tech Solutions",
+        "position": "Software Engineer",
+        "department": "Development"
+    }
+}
